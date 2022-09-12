@@ -1,4 +1,4 @@
-### Hi there, my name is Isis Pedott and I'm learning HTML5, CSS3 and JavaScript 😀👩‍💻
+### Hi there, my name is Isis Pedott! Take a look at my HTML5, CSS3 and JavaScript projects! 😀👩‍💻
 
 <div align="center">
   <a href="https://github.com/isispedott">
